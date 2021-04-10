@@ -1,4 +1,4 @@
-# CNN
+# Diagnosis of Alzheimer's and Parkinson's disease By using DeepLearning
 Diagnosis of Alzheimer's and Parkinson's disease By using DeepLearning
 
 
